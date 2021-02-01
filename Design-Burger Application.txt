@@ -1,0 +1,32 @@
+Planning React Application 
+
+Planning Component Tree -> Idea 
+Application state -> Data
+Component vs Container -> stateless /class  based/state 
+
+Burger Builder 
+1) add Ingre
+2) Build Burger
+
+
+App Component 
+
+Lay out 
+
+
+Toolbar sideDrawer Backdrop  Propschildren
+
+
+Toolbar 					sideDrawer							Propschildren
+
+Drawer Toggle				
+Logo						Logo								Different PAges
+Navigation Items		    Navigation Items                    Burger Builder
+
+								Burger Builder
+								
+								Build Controls
+								Burger
+								Modal
+								
+
